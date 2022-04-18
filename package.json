@@ -22,8 +22,11 @@
     "gulp": "^3.8.9",
     "gulp-ng-annotate": "^0.3.3",
     "gulp-uglify": "^1.0.1"
+<<<<<<< HEAD
   },
   "overrides": {
     "graceful-fs": "^4.2.9"
+=======
+>>>>>>> 0a7e8ce3d966464386a411dd239fb6aa2904f30a
   }
 }
